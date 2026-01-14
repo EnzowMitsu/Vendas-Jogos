@@ -36,20 +36,20 @@ Após essa etapa, foram aplicadas técnicas de análise em Python para identific
 ## 📊 Gráficos gerados 
 
 <table align = "center">
+    <td align="center">
+      <img src="image/gráfico_top_publicadoras_regioes.png" width="1000">
+    </td>
+    <td align="center">
+      <img src="image/gráfico_top_publicadoras_all.png" width="1000">
+    </td>
+</table>
+<table align = "center">
   <tr>
-    <td align="center" style="padding:15px;">
-      <img src="image/gráfico_top_publicadoras_regioes.png" width="280">
+    <td align="center">
+      <img src="image/gráfico_top_publicadoras_global.png" width="1000">
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="image/gráfico_top_publicadoras_all.png" width="280">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding:15px;">
-      <img src="image/gráfico_top_publicadoras_global.png" width="280">
-    </td>
-      <td align="center" style="padding:15px;">
-      <img src="image/gráfico_temporal.png" width="280">
+      <td align="center">
+      <img src="image/gráfico_temporal.png" width="1000">
     </td>
   </tr>
 </table>
